@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PHP,JS,HTML**
 
-- 🤝 I’m looking for help with [Professional Web Designer Developer & WordPress Expert.](https://github.com/devjalal77)
+- 🤝 I’m looking for help with [ Web Designer, Developer & WordPress Expert.](https://github.com/devjalal77)
 
 - 👨‍💻 All of my projects are available at [https://github.com/devjalal77](https://github.com/devjalal77)
 
