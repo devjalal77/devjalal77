@@ -1,5 +1,5 @@
 <a href="https://ibb.co.com/YBmjF5qn"><img src="https://i.ibb.co.com/gZNgL0Bq/Jalal-Uddin-Web-Developer-Banner.png" alt="Jalal-Uddin-Web-Developer-Banner" border="0"></a>
-<h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
+<h3 align="center"> Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjalal77&label=Profile%20views&color=0e75b6&style=flat" alt="devjalal77" /> </p>
 
