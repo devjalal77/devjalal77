@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjalal77" alt="devjalal77" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/devjalal77" target="blank"><img src="https://img.shields.io/twitter/follow/devjalal77?logo=twitter&style=for-the-badge" alt="devjalal77" /></a> </p>
 - 🔭 I’m currently working on **Freelancer**
 
 - 🌱 I’m currently learning **PHP,JS,HTML**
